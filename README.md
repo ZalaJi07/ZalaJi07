@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Harshdeepsinh Zala.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning MERN stack and Next.js
+- 🌱 My goal is to become Android Developer.
