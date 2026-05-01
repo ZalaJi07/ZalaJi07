@@ -52,9 +52,7 @@ I was responsible for the Excel generation engine — handling interdependent va
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZalaJi07&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZalaJi07&theme=dark&hide_border=true&layout=compact&langs_count=6)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZalaJi07&theme=dark&hide_border=true)
 
 ---
 
