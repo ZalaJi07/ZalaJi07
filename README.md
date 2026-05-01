@@ -1,15 +1,64 @@
-# 💫 About Me:
-👋 Hi, I’m Harshdeepsinh Zala.<br>🔭 I’m currently working on Some Mini React Project and DSA<br>🌱 I’m currently learning at GMIU
+# Hi, I'm Harshdeepsinh Zala 👋
 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZalaJi07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZalaJi07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZalaJi07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Final-year B.Tech IT student from Gujarat, India. I build full-stack web applications and I'm currently deepening my backend skills with Spring Boot and Java.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZalaJi07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Project
+
+### [AnimeListManager](https://animelistmanager.netlify.app)
+A full-stack anime watchlist app — built over ~1.5 years as a side project.
+
+- JWT + Google OAuth 2.0 authentication with auto-logout via Axios interceptors
+- Server-side pagination, debounced search, status filtering, multi-column sorting
+- Jikan v4 (MyAnimeList) API integration with browser-side caching
+- Security: bcrypt, rate limiting, input validation across all routes
+- Deployed: React on Netlify · Express/Node on Render · MongoDB Atlas
+
+`React` `Redux` `Node.js` `Express` `MongoDB` `JWT` `OAuth 2.0` `Tailwind CSS`
+
+---
+
+## 💼 Experience
+
+**Software Development Intern — Zeric Ceramic, Morbi**
+
+Built an internal document automation system for ceramic export operations. Users fill one form and the software generates complex trade documents (Custom Sheets, VGN, Annexures) in both Excel and PDF.
+
+I was responsible for the Excel generation engine — handling interdependent variable logic where a single field change cascades through the entire output structure and formatting.
+
+`React` `PHP` `SQLite` `LibreOffice` `Nginx`
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Java · JavaScript · Python · Kotlin  
+**Frontend:** React 18 · Redux · Tailwind CSS · HTML/CSS · Vite  
+**Backend:** Node.js · Express.js · Spring Boot (learning)  
+**Database:** MongoDB · Mongoose · SQL (basic)  
+**Tools:** Git · GitHub · Postman · Netlify · Firebase · Render · MongoDB Atlas  
+**Concepts:** REST APIs · JWT · OAuth 2.0 · OOP · DSA (basic)  
+
+---
+
+## 📚 Currently Learning
+
+- **Spring Boot** — Spring MVC, Spring Data JPA, Spring Security, MySQL
+- **DSA** — Daily practice in Java
+- **System Design** — REST patterns, caching, database design basics
+
+---
+
+## 📊 GitHub Stats
+
+![Harshdeepsinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZalaJi07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZalaJi07&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshdeepsinh_Zala-blue?style=flat&logo=linkedin)](https://linkedin.com/in/zala-harshdeepsinh)
+[![GitHub](https://img.shields.io/badge/GitHub-ZalaJi07-black?style=flat&logo=github)](https://github.com/ZalaJi07)
+📧 harshdeepsinhzala.dev@gmail.com
