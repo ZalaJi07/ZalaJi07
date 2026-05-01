@@ -4,7 +4,7 @@ Final-year B.Tech IT student from Gujarat, India. I build full-stack web applica
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### [AnimeListManager](https://animelistmanager.netlify.app)
 A full-stack anime watchlist app — built over ~1.5 years as a side project.
@@ -19,7 +19,7 @@ A full-stack anime watchlist app — built over ~1.5 years as a side project.
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Development Intern — Zeric Ceramic, Morbi**
 
@@ -31,7 +31,7 @@ I was responsible for the Excel generation engine — handling interdependent va
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Java · JavaScript · Python · Kotlin  
 **Frontend:** React 18 · Redux · Tailwind CSS · HTML/CSS · Vite  
@@ -42,7 +42,7 @@ I was responsible for the Excel generation engine — handling interdependent va
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - **Spring Boot** — Spring MVC, Spring Data JPA, Spring Security, MySQL
 - **DSA** — Daily practice in Java
@@ -50,14 +50,15 @@ I was responsible for the Excel generation engine — handling interdependent va
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Harshdeepsinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZalaJi07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZalaJi07&theme=dark&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZalaJi07&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZalaJi07&theme=dark&hide_border=true&layout=compact&langs_count=6)
 
 ---
 
-## 📬 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshdeepsinh_Zala-blue?style=flat&logo=linkedin)](https://linkedin.com/in/zala-harshdeepsinh)
 [![GitHub](https://img.shields.io/badge/GitHub-ZalaJi07-black?style=flat&logo=github)](https://github.com/ZalaJi07)
